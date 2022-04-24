@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/xun.wang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/xun.wang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "/Users/xun.wang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/arm64-v8a",
+        "native-lib"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/xun.wang/Documents/git_work_other/increment-update/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

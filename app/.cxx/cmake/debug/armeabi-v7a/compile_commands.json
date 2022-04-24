@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/bzip  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xun.wang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/bzip  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/bspatch.c.o   -c /Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/bspatch.c",
+  "file": "/Users/xun.wang/Documents/git_work_other/increment-update/app/src/main/cpp/bspatch.c"
+}
+]

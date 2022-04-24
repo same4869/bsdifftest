@@ -1,0 +1,3 @@
+/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/xun.wang/Documents/git_work_other/increment-update/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir

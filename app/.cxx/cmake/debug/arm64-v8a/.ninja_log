@@ -1,0 +1,9 @@
+# ninja log v5
+0	298	1650781865	CMakeFiles/native-lib.dir/native-lib.cpp.o	676677f54cfaabbf
+0	320	1650781865	CMakeFiles/native-lib.dir/bspatch.c.o	7231844bcddafd01
+320	368	1650781865	/Users/xun.wang/Documents/git_work_other/increment-update/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	1b287c33636ca832
+0	13	0	clean	a83add35614bdeac
+0	12	0	clean	a83add35614bdeac
+1	259	1650784634	CMakeFiles/native-lib.dir/native-lib.cpp.o	676677f54cfaabbf
+1	281	1650784634	CMakeFiles/native-lib.dir/bspatch.c.o	7231844bcddafd01
+281	335	1650784634	/Users/xun.wang/Documents/git_work_other/increment-update/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	1b287c33636ca832
